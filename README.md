@@ -1,76 +1,59 @@
-# Hi, I'm Bashir Adam 👋
+# 👋 Hi, I'm Bashir Adam
 
-**Software Engineering Student & Developer**  
-*Building scalable systems with clean architecture*
+**Versatile Engineer | AI • Backend • Data**
 
-I'm a Software Engineering student at Ostim Technical University (2021-2026) passionate about building robust, maintainable systems. I specialize in backend development, distributed systems, and implementing software engineering best practices in production environments.
+📍 Ankara, Turkey | 🎓 Software Engineering @ Ostim Technical University (2021-2026)  
+🔭 **Currently:** Exploring multiple engineering domains through hands-on projects
 
----
+## 🎯 Specializations
 
-## 🚀 What I'm Currently Working On
+| Domain | Focus Areas | Key Projects |
+|--------|-------------|--------------|
+| **🤖 AI/ML Engineering** | LLMs, RAG, Fine-tuning, MLOps | [Enterprise RAG](link) • [AI Agents](link) |
+| **💻 Backend Development** | Scalable APIs, Microservices, System Design | [E-commerce Platform](link) • [API Gateway](link) |
+| **📊 Data Engineering** | ETL Pipelines, Analytics, Databases | [Data Pipeline](link) • [Analytics Dashboard](link) |
+| **🔧 Software Engineering** | Clean Architecture, DevOps, Testing | All projects below |
 
-- **Scalable E-commerce Platform Architecture** – My final year project focusing on distributed systems
-- **AI/ML Engineering** – Recently interned at DAKAEl AI, working on scalable technology platforms
-- **System Design & Architecture** – Exploring microservices, API gateways, and high-availability systems
+## 📌 Pinned Repositories
 
-## 💼 Experience
+### [Enterprise RAG System](https://github.com/BashirAdam/enterprise-rag)
+*For AI/ML roles* - Production RAG with vector DBs and LLM integration
 
-**AI/ML Engineering Intern** @ DAKAEl AI *(Feb 2025 - May 2025)*  
-- Architected and implemented scalable technology platforms using JavaScript/TypeScript
-- Improved CI/CD practices and software development lifecycle
-- Applied software design patterns and OOP principles in production code
-- Supported full DevOps approach for tech stack maintenance and operations
+### [Scalable E-commerce Platform](https://github.com/BashirAdam/ecommerce-platform)  
+*For Backend/Full-Stack roles* - Microservices with TypeScript/Node.js
 
-## 🔧 Tech Stack
+### [Data Pipeline Framework](https://github.com/BashirAdam/data-pipeline)
+*For Data roles* - Complete ETL system with orchestration
 
-**Backend Development:**  
-TypeScript • Node.js • Go (Golang) • Python • REST APIs • Microservices • API Gateways
+### [API Gateway in Go](https://github.com/BashirAdam/api-gateway)
+*For System Design roles* - High-performance distributed system
 
-**DevOps & Infrastructure:**  
-CI/CD Pipelines • Docker • Git • Automated Testing • Deployment Automation • AWS
+## 🛠️ Technology Spectrum
 
-**Software Engineering:**  
-Data Structures & Algorithms • Software Design Patterns • System Architecture • Database Design  
-Clean Code • Documentation • Agile Development • Distributed Systems
+**AI/ML Stack:** Python • PyTorch • LangChain • Vector DBs • MLOps  
+**Backend Stack:** TypeScript/Node.js • Go • FastAPI • PostgreSQL • Docker  
+**Data Stack:** SQL • pandas • Airflow • dbt • Data Visualization  
+**Engineering:** System Design • CI/CD • Testing • Documentation • Agile
 
-**Frontend & Tools:**  
-React • HTML/CSS • Responsive Design • Object-Oriented Programming
+## 📚 Background
 
-## 🛠️ Featured Projects
+**Education:** B.S. Software Engineering @ Ostim Technical University  
+**Research:** Published paper on code quality analysis (DOI: 10.64589/juri/215034)  
+**Internship:** AI/ML Engineering @ DAKAEl AI (Feb-May 2025)  
+**Approach:** Building production-ready systems with emphasis on clean code and scalability
 
-### [E-commerce Analytics Platform](https://github.com/BashirAdam/ecommerce-platform)
-Scalable backend with TypeScript/Node.js implementing REST APIs and microservices architecture. Features include:
-- Applied software design patterns (Factory, Observer, Strategy)
-- Implemented CI/CD pipeline with automated testing
-- Optimized database schemas for high-performance operations
+## 📫 Contact & Customization
 
-### [Full-Stack Sleep Analytics Dashboard](https://github.com/BashirAdam/sleep-analytics)
-Full-stack application with data processing algorithms for sleep pattern analysis:
-- TypeScript/Node.js backend with React frontend
-- Containerization and automated deployment
-- Data visualization and analytical insights
+I tailor my technical focus based on project requirements. Looking for opportunities in:
 
-### Scalable API Gateway
-Designed API gateway handling multiple services using Go:
-- Distributed systems principles for high availability
-- Authentication, rate limiting, and monitoring features
-- Extensible architecture using software design patterns
+- **AI/ML Engineering:** Generative AI, LLM applications, MLOps
+- **Backend Development:** Scalable systems, APIs, distributed computing  
+- **Data Roles:** Engineering, Analysis, Pipeline development
+- **Software Engineering:** Generalist roles with architecture focus
 
-## 📚 Research & Publications
-
-**"Static Analysis of Code Quality"**  
-Published research applying computer science fundamentals to analyze software architecture patterns.  
-*DOI: 10.64589/juri/215034*
-
-## 📫 Let's Connect
-
-- **Email:** bashir.a.ahmed.ali@gmail.com
-- **LinkedIn:** [linkedin.com/in/bashir-adam-ahmed](https://linkedin.com/in/bashir-adam-ahmed)
-- **GitHub:** [github.com/BashirAdam](https://github.com/BashirAdam)
+**Connect:** [LinkedIn](https://linkedin.com/in/bashir-adam-ahmed) • [Email](mailto:bashir.a.ahmed.ali@gmail.com)  
+**Resume:** Available upon request (tailored versions for different roles)
 
 ---
 
-> "Building scalable solutions with clean architecture and engineering excellence."
-
-*Ankara, Turkey | Open to collaboration and new opportunities*
-
+*"A versatile engineer who learns domains deeply to build effective solutions"*
