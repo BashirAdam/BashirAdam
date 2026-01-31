@@ -70,6 +70,4 @@ Published research applying computer science fundamentals to analyze software ar
 
 ---
 
-> "Building scalable solutions with clean architecture and engineering excellence."
 
-*Ankara, Turkey | Open to collaboration and new opportunities*
